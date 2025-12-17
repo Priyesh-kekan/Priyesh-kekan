@@ -80,7 +80,7 @@ Alongside game development, I have a solid background in **frontend web developm
 ## 📫 Connect With Me
 
 - **GitHub:** https://github.com/Priyesh-kekan  
-- **LinkedIn:** https://www.linkedin.com/priyesh-kekan
+- **LinkedIn:** https://[www.linkedin.com/in/priyesh-kekan](https://www.linkedin.com/in/priyesh-kekan-a93927251/)
 - **Email:** priyeshkekan3@gmail.com  
 
 ---
