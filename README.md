@@ -62,18 +62,6 @@ Alongside game development, my background in **frontend web development** helps 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Priyesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Priyesh-kekan&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Priyesh-kekan&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=Priyesh-kekan&theme=radical)
-
-</div>
-
----
-
 ## 🎯 Development Philosophy
 
 - Clean, readable & maintainable code  
